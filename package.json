@@ -1,0 +1,19 @@
+{
+  "name": "turnspit",
+  "version": "1.0.0",
+  "description": "A tool library for quick, reliable, low-overhead reference",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timclaason/turnspit.git"
+  },
+  "author": "Tim Claason",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timclaason/turnspit/issues"
+  },
+  "homepage": "https://github.com/timclaason/turnspit#readme"
+}
